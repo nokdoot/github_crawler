@@ -114,7 +114,7 @@ for ( 1..100 ) {
 
         # desc
         my $p = $e->at('p:nth-child(2)');
-        my $desc = "";
+        my $desc = "No Description";
         $desc = $p->all_text if $p;
         trim($desc);
 

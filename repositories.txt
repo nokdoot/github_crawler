@@ -70,3 +70,174 @@ No License
 
 
 
+petdance/test-www-mechanize
+https://github.com/petdance/test-www-mechanize
+Test::WWW::Mechanize, a Perl object for testing web pages
+No License
+2019-06-14T18:52:34
+18
+
+
+
+petdance/file-next
+https://github.com/petdance/file-next
+File::Next, a file finding module for Perl 5
+No License
+2019-06-14T18:45:14
+18
+
+
+
+gottburgm/Exploits
+https://github.com/gottburgm/Exploits
+Containing Self Made Perl Reproducers / PoC Codes
+No License
+2019-06-14T15:23:40
+82
+
+
+
+centreon/centreon-plugins
+https://github.com/centreon/centreon-plugins
+Collection of plugins for softwares compatible with Nagios plugins
+Apache-2.0 license
+2019-06-14T15:23:36
+180
+
+
+
+mongodb/mongo-perl-driver
+https://github.com/mongodb/mongo-perl-driver
+Perl driver for the MongoDB
+Apache-2.0 license
+2019-06-14T15:21:06
+194
+
+
+
+Logitech/slimserver
+https://github.com/Logitech/slimserver
+Server for Logitech Squeezebox players. This server is also called Logitech Media Server
+No License
+2019-06-14T15:17:50
+459
+
+
+
+beyondgrep/ack3
+https://github.com/beyondgrep/ack3
+ack is a grep-like search tool optimized for source code.
+No License
+2019-06-14T14:18:12
+79
+
+
+
+OpenKore/openkore
+https://github.com/OpenKore/openkore
+A free/open source client and automation tool for Ragnarok Online
+No License
+2019-06-14T14:03:15
+782
+
+
+
+openSUSE/obs-build
+https://github.com/openSUSE/obs-build
+OBS build script, can be used with OBS or stand alone
+GPL-2.0 license
+2019-06-14T13:15:08
+70
+
+
+
+fusioninventory/fusioninventory-agent
+https://github.com/fusioninventory/fusioninventory-agent
+FusionInventory Agent
+GPL-2.0 license
+2019-06-14T09:58:29
+125
+
+
+
+line/line-bot-sdk-perl
+https://github.com/line/line-bot-sdk-perl
+LINE Messaging API SDK for Perl
+No License
+2019-06-14T08:14:23
+59
+
+
+
+net-amqp-rabbitmq/net-amqp-rabbitmq
+https://github.com/net-amqp-rabbitmq/net-amqp-rabbitmq
+Perl bindings to the librabbitmq-c AMQP library.
+No License
+2019-06-14T08:14:00
+20
+
+
+
+DCIT/perl-CryptX
+https://github.com/DCIT/perl-CryptX
+
+No License
+2019-06-14T06:59:29
+22
+
+
+
+sjdy521/Mojo-SinaWeibo
+https://github.com/sjdy521/Mojo-SinaWeibo
+使用Perl语言编写的新浪微博客户端SDK，通过微博私信和微软小冰进行问答，提供小冰API接口，其他微博功能敬请期待
+No License
+2019-06-14T05:00:48
+37
+
+
+
+preaction/Yancy
+https://github.com/preaction/Yancy
+A tiny CMS / REST API using Mojolicious
+No License
+2019-06-14T03:38:17
+27
+
+
+
+DrHyde/perl-modules-Number-Phone
+https://github.com/DrHyde/perl-modules-Number-Phone
+Number::Phone and friends
+No License
+2019-06-13T21:17:54
+19
+
+
+
+exiftool-rb/exiftool_vendored.rb
+https://github.com/exiftool-rb/exiftool_vendored.rb
+The exiftool gem requires the exiftool perl package, which this includes.
+MIT license
+2019-06-13T17:50:56
+11
+
+
+
+houseabsolute/DateTime.pm
+https://github.com/houseabsolute/DateTime.pm
+A date and time object for Perl
+No License
+2019-06-13T14:52:57
+33
+
+
+
+exiftool/exiftool
+https://github.com/exiftool/exiftool
+ExifTool meta information reader/writer
+No License
+2019-06-13T13:50:15
+170
+
+
+
