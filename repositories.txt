@@ -180,7 +180,7 @@ No License
 
 DCIT/perl-CryptX
 https://github.com/DCIT/perl-CryptX
-
+No Description
 No License
 2019-06-14T06:59:29
 22
@@ -238,6 +238,1419 @@ ExifTool meta information reader/writer
 No License
 2019-06-13T13:50:15
 170
+
+
+
+Perl/perl5
+https://github.com/Perl/perl5
+The Perl 5 language interpreter (MIRROR ONLY)
+No License
+2019-06-13T12:56:37
+426
+
+
+
+bioperl/bioperl-live
+https://github.com/bioperl/bioperl-live
+Core BioPerl 1.x code
+No License
+2019-06-13T03:21:28
+206
+
+
+
+yoe/SReview
+https://github.com/yoe/SReview
+sreview review system
+AGPL-3.0 license
+2019-06-12T20:59:23
+28
+
+
+
+sonar-perl/sonar-perl
+https://github.com/sonar-perl/sonar-perl
+Perl5 Plugin for SonarQube
+Apache-2.0 license
+2019-06-12T18:19:38
+47
+
+
+
+hzhou/MyDef
+https://github.com/hzhou/MyDef
+Programming in the next paradigm -- your way
+No License
+2019-06-12T15:14:23
+39
+
+
+
+perl11/cperl
+https://github.com/perl11/cperl
+A perl5 with classes, types, compilable, company friendly, security
+No License
+2019-06-12T14:35:57
+107
+
+
+
+trizen/trizen
+https://github.com/trizen/trizen
+Lightweight AUR Package Manager
+No License
+2019-06-12T14:28:14
+594
+
+
+
+sni/Thruk
+https://github.com/sni/Thruk
+Thruk is a multibackend monitoring webinterface for Naemon, Nagios, Icinga and Shinken using the Livestatus API.
+No License
+2019-06-12T13:46:43
+315
+
+
+
+teodesian/Selenium-Remote-Driver
+https://github.com/teodesian/Selenium-Remote-Driver
+Perl Bindings to the Selenium Webdriver server
+No License
+2019-06-12T13:09:00
+149
+
+
+
+Diego999/py-rouge
+https://github.com/Diego999/py-rouge
+Full Python implementation of the ROUGE metric, producing same results as in the official perl implementation.
+Apache-2.0 license
+2019-06-12T12:26:37
+54
+
+
+
+SUSE/smt
+https://github.com/SUSE/smt
+Subscription Management Tool
+GPL-2.0 license
+2019-06-12T11:54:58
+12
+
+
+
+netdisco/netdisco
+https://github.com/netdisco/netdisco
+A web-based network management tool.
+No License
+2019-06-12T10:51:26
+154
+
+
+
+OWASP/O-Saft
+https://github.com/OWASP/O-Saft
+O-Saft - OWASP SSL advanced forensic tool
+GPL-2.0 license
+2019-06-12T10:12:11
+246
+
+
+
+Sunhh/NGS_data_processing
+https://github.com/Sunhh/NGS_data_processing
+Tool set for processing fasta/fastq/table formated data. Usually they are perl scripts.
+GPL-3.0 license
+2019-06-12T02:29:05
+19
+
+
+
+Grinnz/perldoc-browser
+https://github.com/Grinnz/perldoc-browser
+Perldoc Browser
+Artistic-2.0 license
+2019-06-11T20:20:10
+18
+
+
+
+rjust/defects4j
+https://github.com/rjust/defects4j
+A Database of Real Faults and an Experimental Infrastructure to Enable Controlled Experiments in Software Engineering…
+No License
+2019-06-11T19:39:11
+192
+
+
+
+justingit/dada-mail
+https://github.com/justingit/dada-mail
+Self-Hosted, Full Featured, Email Mailing List Manager. Announcement + Discussion Lists, Web-based Installer, Install…
+GPL-2.0 license
+2019-06-11T19:33:52
+96
+
+
+
+sansaoipb/Telegram-Graph-authenticated_Perl
+https://github.com/sansaoipb/Telegram-Graph-authenticated_Perl
+No Description
+No License
+2019-06-11T15:13:34
+13
+
+
+
+klenin/cats-main
+https://github.com/klenin/cats-main
+Programming contest control system
+GPL-2.0 license
+2019-06-11T15:07:49
+28
+
+
+
+GouveaHeitor/security-spellbook
+https://github.com/GouveaHeitor/security-spellbook
+Collection of small security tools created mostly in Perl during CTFs, pentests and so on
+No License
+2019-06-11T13:27:46
+26
+
+
+
+rurban/Cpanel-JSON-XS
+https://github.com/rurban/Cpanel-JSON-XS
+Improved fork of JSON-XS
+No License
+2019-06-11T08:02:56
+23
+
+
+
+openSUSE-zh/opi
+https://github.com/openSUSE-zh/opi
+OBS Package Installer (CLI)
+GPL-3.0 license
+2019-06-11T07:37:27
+20
+
+
+
+Geo-omics/scripts
+https://github.com/Geo-omics/scripts
+Metagenomic pipeline and other general scripts used in the lab.
+GPL-3.0 license
+2019-06-10T21:23:52
+26
+
+
+
+eserte/cpan-testers-matrix
+https://github.com/eserte/cpan-testers-matrix
+the code behind matrix.cpantesters.org
+No License
+2019-06-10T20:33:08
+19
+
+
+
+Difegue/LANraragi
+https://github.com/Difegue/LANraragi
+Web application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.
+MIT license
+2019-06-10T18:53:28
+96
+
+
+
+perltidy/perltidy
+https://github.com/perltidy/perltidy
+Perl::Tidy, a source code formatter for Perl
+GPL-2.0 license
+2019-06-10T17:38:57
+19
+
+
+
+Dual-Life/Scalar-List-Utils
+https://github.com/Dual-Life/Scalar-List-Utils
+Scalar::Util, List::Util and Sub::Util perl modules
+No License
+2019-06-10T17:04:02
+21
+
+
+
+dyne/gitzone
+https://github.com/dyne/gitzone
+git-based zone management tool for static and dynamic domains
+AGPL-3.0 license
+2019-06-10T16:53:01
+90
+
+
+
+trizen/sidef
+https://github.com/trizen/sidef
+A modern object-oriented programming language implemented in Perl.
+Artistic-2.0 license
+2019-06-10T14:50:16
+56
+
+
+
+kensanata/oddmuse
+https://github.com/kensanata/oddmuse
+A simple wiki engine written in Perl. No database required.
+GPL-3.0 license
+2019-06-10T13:02:34
+37
+
+
+
+rizen/Facebook-Graph
+https://github.com/rizen/Facebook-Graph
+A perl module to help navigate the intricacies of the Facebook Graph API.
+No License
+2019-06-10T05:53:15
+54
+
+
+
+finance-quote/finance-quote
+https://github.com/finance-quote/finance-quote
+Finance::Quote module for Perl
+No License
+2019-06-09T23:49:57
+58
+
+
+
+RFD-FHEM/RFFHEM
+https://github.com/RFD-FHEM/RFFHEM
+Counterpart of SIGNALDuino, it's the code for FHEM to work with the data received from the uC
+GPL-3.0 license
+2019-06-09T22:05:07
+27
+
+
+
+alex314159/PerlFinanceQuoteBloomberg
+https://github.com/alex314159/PerlFinanceQuoteBloomberg
+Bloomberg module for the Perl Finance::Quote module (used in particular by GnuCash)
+No License
+2019-06-09T20:37:54
+11
+
+
+
+stash/Feersum
+https://github.com/stash/Feersum
+A PSGI engine for Perl based on EV/libev
+No License
+2019-06-09T08:26:18
+71
+
+
+
+ewels/ClusterFlow
+https://github.com/ewels/ClusterFlow
+A pipelining tool to automate and standardise bioinformatics analyses on cluster environments.
+GPL-3.0 license
+2019-06-08T16:38:32
+75
+
+
+
+trizen/perl-scripts
+https://github.com/trizen/perl-scripts
+A nice collection of day-to-day Perl scripts.
+GPL-3.0 license
+2019-06-08T10:37:13
+32
+
+
+
+miyagawa/cpanmetadb-perl
+https://github.com/miyagawa/cpanmetadb-perl
+CPANMetaDB in Starman and Plack with Carmel
+No License
+2019-06-08T03:15:18
+16
+
+
+
+perl6/ecosystem
+https://github.com/perl6/ecosystem
+Perl 6 ecosystem – modules and more
+No License
+2019-06-07T22:40:40
+106
+
+
+
+dekkerlab/cworld-dekker
+https://github.com/dekkerlab/cworld-dekker
+perl cworld module and collection of utility/analysis scripts for C data (3C, 4C, 5C, Hi-C)
+Apache-2.0 license
+2019-06-07T22:16:54
+15
+
+
+
+sansaoipb/Email-Graph-ZABBIX_Perl
+https://github.com/sansaoipb/Email-Graph-ZABBIX_Perl
+No Description
+No License
+2019-06-07T19:28:10
+16
+
+
+
+trizen/menutray
+https://github.com/trizen/menutray
+An application menu through a GTK+ tray status icon.
+GPL-3.0 license
+2019-06-07T12:45:33
+45
+
+
+
+Tekki/sql-ledger
+https://github.com/Tekki/sql-ledger
+📚 The official SQL-Ledger version, plus some additions.
+GPL-3.0 license
+2019-06-07T11:32:49
+16
+
+
+
+Perl-Toolchain-Gang/ExtUtils-MakeMaker
+https://github.com/Perl-Toolchain-Gang/ExtUtils-MakeMaker
+Perl module to make Makefiles and build modules (what backs Makefile.PL)
+No License
+2019-06-07T10:55:58
+48
+
+
+
+aki2o/plsense
+https://github.com/aki2o/plsense
+Omni completion tool for Perl
+No License
+2019-06-06T12:59:07
+43
+
+
+
+Nordaaker/convos
+https://github.com/Nordaaker/convos
+Convos 👥 is the simplest way to use IRC in your browser
+No License
+2019-06-06T08:46:16
+533
+
+
+
+jmcnamara/excel-writer-xlsx
+https://github.com/jmcnamara/excel-writer-xlsx
+Perl module to create Excel XLSX files.
+No License
+2019-06-05T23:15:11
+82
+
+
+
+liske/needrestart
+https://github.com/liske/needrestart
+Restart daemons after library updates.
+GPL-2.0 license
+2019-06-05T20:56:03
+149
+
+
+
+dod38fr/config-model
+https://github.com/dod38fr/config-model
+Perl module to create configuration editor wtih semantic validation
+No License
+2019-06-05T17:20:51
+54
+
+
+
+hollie/misterhouse
+https://github.com/hollie/misterhouse
+Perl open source home automation program. It's fun, it's free, and it's entirely geeky.
+No License
+2019-06-05T16:02:53
+210
+
+
+
+rurban/App-perlall
+https://github.com/rurban/App-perlall
+create and work with /usr/local/bin/perl5.*
+No License
+2019-06-05T15:09:30
+22
+
+
+
+rurban/perl-compiler
+https://github.com/rurban/perl-compiler
+B::C - Moved over from googlecode
+No License
+2019-06-05T15:09:19
+51
+
+
+
+melmothx/amusewiki
+https://github.com/melmothx/amusewiki
+Text::Amuse-based publishing platform
+No License
+2019-06-05T13:49:01
+52
+
+
+
+aleex42/netapp-cdot-nagios
+https://github.com/aleex42/netapp-cdot-nagios
+Nagios-Checks for monitoring NetApp cDOT-Systems via NetApp Perl API
+GPL-3.0 license
+2019-06-05T10:03:01
+31
+
+
+
+gryf/tabbed
+https://github.com/gryf/tabbed
+Extended tabbed plugin for rxvt-unicode (urxvt)
+No License
+2019-06-05T09:48:37
+18
+
+
+
+UUPharmacometrics/PsN
+https://github.com/UUPharmacometrics/PsN
+Perl-Speaks-NONMEM
+GPL-2.0 license
+2019-06-05T09:31:51
+23
+
+
+
+cpan-testers/CPAN-Reporter
+https://github.com/cpan-testers/CPAN-Reporter
+(Perl) Adds CPAN Testers reporting to CPAN.pm
+No License
+2019-06-04T20:53:29
+17
+
+
+
+foswiki/distro
+https://github.com/foswiki/distro
+START HERE! This is the Foswiki project "Distribution". It is a monolith repository with the core + default extensions.
+No License
+2019-06-04T09:43:28
+66
+
+
+
+patschbo/BaNG
+https://github.com/patschbo/BaNG
+Backup Next Generation for Linux & Mac using rsync (support hardlinks and btrfs snapshots), Web-Frontend, Statistics,…
+GPL-3.0 license
+2019-06-04T08:16:06
+19
+
+
+
+dnsmichi/manubulon-snmp
+https://github.com/dnsmichi/manubulon-snmp
+Set of Icinga/Nagios plugins to check hosts and hardware wi the SNMP protocol.
+GPL-2.0 license
+2019-06-04T07:29:45
+55
+
+
+
+szabgab/perlmaven.com
+https://github.com/szabgab/perlmaven.com
+The source files of the Perl Maven articles
+No License
+2019-06-04T02:48:28
+45
+
+
+
+ipinfo/perl
+https://github.com/ipinfo/perl
+Official Perl client library for IPinfo
+No License
+2019-06-03T18:50:17
+10
+
+
+
+LibreCat/LibreCat
+https://github.com/LibreCat/LibreCat
+A publication management system
+No License
+2019-06-03T13:15:36
+26
+
+
+
+dave-theunsub/clamtk
+https://github.com/dave-theunsub/clamtk
+An easy to use, light-weight, on-demand virus scanner for Linux systems
+No License
+2019-06-03T11:29:31
+113
+
+
+
+spencertipping/ni
+https://github.com/spencertipping/ni
+Say "ni" to data of any size
+No License
+2019-06-03T09:58:05
+61
+
+
+
+simmel/urxvt-resize-font
+https://github.com/simmel/urxvt-resize-font
+URxvt Perl extension for resizing the font
+No License
+2019-06-03T09:37:58
+89
+
+
+
+leejo/CGI.pm
+https://github.com/leejo/CGI.pm
+The CGI.pm perl module
+Artistic-2.0 license
+2019-06-03T08:59:49
+27
+
+
+
+neilhwatson/nustuff
+https://github.com/neilhwatson/nustuff
+Useful scripting and Linux configuration examples
+MIT license
+2019-06-03T00:39:40
+11
+
+
+
+bingos/devel-patchperl
+https://github.com/bingos/devel-patchperl
+(perl) Patch perl source a la Devel::PPort's buildperl.pl
+No License
+2019-06-02T13:07:25
+16
+
+
+
+chromatic/Modern-Perl
+https://github.com/chromatic/Modern-Perl
+The Modern::Perl CPAN Distribution
+No License
+2019-06-01T16:19:45
+21
+
+
+
+tadzik/rakudobrew
+https://github.com/tadzik/rakudobrew
+Perl 6 installation manager
+MIT license
+2019-06-01T15:55:39
+180
+
+
+
+LudovicRousseau/pcsc-tools
+https://github.com/LudovicRousseau/pcsc-tools
+Some tools to be used with smart cards and PC/SC
+GPL-2.0 license
+2019-06-01T15:55:12
+56
+
+
+
+woodpeck/osm-revert-scripts
+https://github.com/woodpeck/osm-revert-scripts
+A collection of Perl scripts to handle reverts on OpenStreetMap
+No License
+2019-06-01T10:00:23
+12
+
+
+
+briandfoy/PerlPowerTools
+https://github.com/briandfoy/PerlPowerTools
+Perl Power Tools
+No License
+2019-06-01T08:19:18
+128
+
+
+
+rs/net-server-mail
+https://github.com/rs/net-server-mail
+Extensible Perl implementation of the STMP protocol and its different evolutions (ie: ESMTP, LMTP)
+No License
+2019-06-01T07:16:39
+10
+
+
+
+mojolicious/minion
+https://github.com/mojolicious/minion
+🐙 Perl job queue
+Artistic-2.0 license
+2019-05-31T19:45:24
+142
+
+
+
+mojolicious/mojo-pg
+https://github.com/mojolicious/mojo-pg
+Mojolicious ❤️ PostgreSQL
+Artistic-2.0 license
+2019-05-31T19:34:56
+85
+
+
+
+duckduckgo/zeroclickinfo-goodies
+https://github.com/duckduckgo/zeroclickinfo-goodies
+DuckDuckGo Instant Answers based on Perl & JavaScript
+No License
+2019-05-31T17:02:51
+911
+
+
+
+Tux/speedtest
+https://github.com/Tux/speedtest
+Perl CLI for speedtest.net
+Artistic-2.0 license
+2019-05-31T16:24:40
+31
+
+
+
+rschupp/PAR-Packer
+https://github.com/rschupp/PAR-Packer
+(perl) Generate stand-alone executables, perl scripts and PAR files https://metacpan.org/pod/PAR::Packer
+No License
+2019-05-31T11:56:11
+12
+
+
+
+adobe-type-tools/perl-scripts
+https://github.com/adobe-type-tools/perl-scripts
+Command-line Perl Scripts
+MIT license
+2019-05-30T23:50:25
+13
+
+
+
+infobloxopen/netmri-toolkit
+https://github.com/infobloxopen/netmri-toolkit
+Example scripts for CCS and Perl, as well as Python access to the NetMRI REST API. Also includes example policies and…
+MIT license
+2019-05-30T15:07:16
+10
+
+
+
+Ensembl/ensembl-hive
+https://github.com/Ensembl/ensembl-hive
+EnsEMBL Hive - a system for creating and running pipelines on a distributed compute resource
+Apache-2.0 license
+2019-05-30T14:50:29
+35
+
+
+
+perlorg/perlweb
+https://github.com/perlorg/perlweb
+Various perl.org websites
+No License
+2019-05-30T09:00:11
+55
+
+
+
+reyjrar/es-utils
+https://github.com/reyjrar/es-utils
+ElasticSearch Utilities
+No License
+2019-05-30T05:02:20
+134
+
+
+
+techsneeze/dmarcts-report-parser
+https://github.com/techsneeze/dmarcts-report-parser
+A Perl based tool to parse DMARC reports from an IMAP mailbox or from the filesystem, and insert the information into…
+GPL-3.0 license
+2019-05-30T01:58:34
+84
+
+
+
+henshin/filebuster
+https://github.com/henshin/filebuster
+An extremely fast and flexible web fuzzer
+GPL-3.0 license
+2019-05-29T20:06:56
+138
+
+
+
+tobyink/p5-type-tiny
+https://github.com/tobyink/p5-type-tiny
+tiny, yet Moo(se)-compatible type constraint
+No License
+2019-05-29T16:07:28
+35
+
+
+
+Ensembl/ensembl-compara
+https://github.com/Ensembl/ensembl-compara
+The Ensembl Compara Perl API and SQL schema
+Apache-2.0 license
+2019-05-29T12:48:50
+25
+
+
+
+shogo82148/Redis-Fast
+https://github.com/shogo82148/Redis-Fast
+fast perl binding for Redis database
+No License
+2019-05-29T11:23:53
+17
+
+
+
+ltnetcase/BedAnno
+https://github.com/ltnetcase/BedAnno
+Annotate genomics variations of hg19 by using a BED format database, which construct from NCBI annotation release 104
+LGPL-3.0 license
+2019-05-29T07:57:28
+10
+
+
+
+hitode909/App-PRT
+https://github.com/hitode909/App-PRT
+Command line tool for Perl code refactoring
+No License
+2019-05-29T05:25:00
+44
+
+
+
+jonasbn/perl-workflow
+https://github.com/jonasbn/perl-workflow
+Simple, flexible system to implement workflows
+No License
+2019-05-28T20:27:14
+10
+
+
+
+book/perlsecret
+https://github.com/book/perlsecret
+The perl secret operators
+No License
+2019-05-28T19:53:12
+74
+
+
+
+dk/Net-Eboks
+https://github.com/dk/Net-Eboks
+perl API for eboks.dk
+No License
+2019-05-28T14:04:34
+16
+
+
+
+duckduckgo/duckduckgo-publisher
+https://github.com/duckduckgo/duckduckgo-publisher
+Generation of the static files of DuckDuckGo and its microsites.
+No License
+2019-05-28T13:02:36
+40
+
+
+
+Ensembl/ensembl-funcgen
+https://github.com/Ensembl/ensembl-funcgen
+Ensembl Funcgen Perl API and SQL schema
+Apache-2.0 license
+2019-05-28T08:28:11
+11
+
+
+
+noxxi/p5-io-socket-ssl
+https://github.com/noxxi/p5-io-socket-ssl
+IO::Socket::SSL Perl Module
+No License
+2019-05-28T06:46:50
+27
+
+
+
+cvicente/Netdot
+https://github.com/cvicente/Netdot
+Network Documentation Tool
+No License
+2019-05-27T20:44:27
+133
+
+
+
+Debian/devscripts
+https://github.com/Debian/devscripts
+Mirror of https://salsa.debian.org/deban/devscripts.git
+GPL-2.0 license
+2019-05-27T16:13:13
+16
+
+
+
+fglock/Perlito
+https://github.com/fglock/Perlito
+"Perlito" Perl programming language compiler
+No License
+2019-05-27T11:57:42
+357
+
+
+
+mikaku/Monitorix
+https://github.com/mikaku/Monitorix
+Monitorix is a free, open source, lightweight system monitoring tool.
+GPL-2.0 license
+2019-05-27T10:49:18
+668
+
+
+
+ranguard/svg-tt-graph
+https://github.com/ranguard/svg-tt-graph
+Perl module for creating SVG graphs
+No License
+2019-05-27T08:49:42
+12
+
+
+
+shirkdog/pulledpork
+https://github.com/shirkdog/pulledpork
+Pulled Pork for Snort and Suricata rule management (from Google code)
+GPL-2.0 license
+2019-05-26T21:38:19
+259
+
+
+
+Perl5-FFI/FFI-Platypus
+https://github.com/Perl5-FFI/FFI-Platypus
+Write Perl bindings to non-Perl libraries with FFI. No XS required.
+No License
+2019-05-26T21:20:45
+51
+
+
+
+sanko/Finance-Robinhood
+https://github.com/sanko/Finance-Robinhood
+Trade stocks and ETFs with free brokerage Robinhood and Perl
+No License
+2019-05-25T16:32:17
+31
+
+
+
+metacpan/metacpan-api
+https://github.com/metacpan/metacpan-api
+A free, open API for everything you want to know about CPAN
+No License
+2019-05-25T02:42:33
+214
+
+
+
+slauger/check_netscaler
+https://github.com/slauger/check_netscaler
+A Nagios Plugin written in Perl for the Citrix NetScaler. It uses the NetScaler NITRO API.
+Apache-2.0 license
+2019-05-24T20:55:16
+17
+
+
+
+trizen/clyrics
+https://github.com/trizen/clyrics
+An extensible lyrics fetcher, with daemon support for cmus and mocp.
+GPL-3.0 license
+2019-05-24T18:52:48
+23
+
+
+
+GouveaHeitor/nipe
+https://github.com/GouveaHeitor/nipe
+Nipe is a script to make Tor Network your default gateway.
+No License
+2019-05-24T15:06:17
+588
+
+
+
+Perl-Critic/Perl-Critic
+https://github.com/Perl-Critic/Perl-Critic
+The leading static analyzer for Perl. Configurable, extensible, powerful.
+No License
+2019-05-24T14:46:49
+121
+
+
+
+marcschwartz/WriteXLS
+https://github.com/marcschwartz/WriteXLS
+CRAN Package WriteXLS: Cross-platform Perl based R function to create Excel 2003 (XLS) and Excel 2007 (XLSX) files fr…
+GPL-2.0 license
+2019-05-24T14:33:45
+15
+
+
+
+societe-generale/code2pg
+https://github.com/societe-generale/code2pg
+Tool to help migrate application code from Oracle to PostgreSQL
+BSD-2-Clause license
+2019-05-24T13:26:09
+10
+
+
+
+demanuel/NewsUP
+https://github.com/demanuel/NewsUP
+Fully feature high performance binary usenet uploader/poster
+GPL-3.0 license
+2019-05-23T21:52:52
+45
+
+
+
+ingydotnet/yaml-pm
+https://github.com/ingydotnet/yaml-pm
+YAML Perl Module
+No License
+2019-05-23T20:44:07
+13
+
+
+
+inway/mojo-rabbitmq-client
+https://github.com/inway/mojo-rabbitmq-client
+Mojo::IOLoop based RabbitMQ (AMQP) client
+Artistic-2.0 license
+2019-05-23T11:20:41
+14
+
+
+
+gugod/App-perlbrew
+https://github.com/gugod/App-perlbrew
+Manage perl installations in your $HOME
+No License
+2019-05-22T22:50:00
+626
+
+
+
+libwww-perl/libwww-perl
+https://github.com/libwww-perl/libwww-perl
+The libwww-perl collection is a set of Perl modules which provides a simple and consistent application programming in…
+No License
+2019-05-22T15:22:52
+150
+
+
+
+Ensembl/ensembl-variation
+https://github.com/Ensembl/ensembl-variation
+The Ensembl Variation Perl API and SQL schema
+Apache-2.0 license
+2019-05-22T15:18:08
+20
+
+
+
+hknutzen/Netspoc
+https://github.com/hknutzen/Netspoc
+A network security policy compiler. Netspoc is targeted at large environments with a large number of firewalls and ad…
+GPL-2.0 license
+2019-05-22T13:46:11
+21
+
+
+
+skaji/relocatable-perl
+https://github.com/skaji/relocatable-perl
+self-contained, portable perl binaries
+No License
+2019-05-22T13:43:19
+23
+
+
+
+lyokato/p5-oauth-lite
+https://github.com/lyokato/p5-oauth-lite
+Perl OAuth Library
+No License
+2019-05-22T08:04:54
+14
+
+
+
+chasewnelson/SNPGenie
+https://github.com/chasewnelson/SNPGenie
+Program for estimating πN/πS, dN/dS, and other diversity measures from next-generation sequencing data
+GPL-3.0 license
+2019-05-21T17:00:36
+17
+
+
+
+PerlDancer/Dancer2
+https://github.com/PerlDancer/Dancer2
+Perl Dancer Next Generation (rewrite of Perl Dancer)
+No License
+2019-05-21T08:56:36
+445
+
+
+
+miyagawa/Starman
+https://github.com/miyagawa/Starman
+Starman is a high-performance preforking Perl PSGI web server
+No License
+2019-05-21T01:44:05
+266
+
+
+
+tlily/tigerlily
+https://github.com/tlily/tigerlily
+perl client for the lily chat server
+GPL-2.0 license
+2019-05-20T17:39:27
+10
+
+
+
+thedarkwinter/Net-DRI
+https://github.com/thedarkwinter/Net-DRI
+Perl EPP Client: Net-DRI-0.X_tdw based on Net-DRI-0.96_09
+GPL-2.0 license
+2019-05-20T13:55:47
+14
+
+
+
+jacquesg/p5-Git-Raw
+https://github.com/jacquesg/p5-Git-Raw
+Perl bindings to the Git linkable library (libgit2)
+No License
+2019-05-20T13:41:49
+39
+
+
+
+Perl-Toolchain-Gang/Test-Harness
+https://github.com/Perl-Toolchain-Gang/Test-Harness
+Run Perl standard test scripts with statistics
+No License
+2019-05-20T12:27:46
+25
+
+
+
+sass/perl-libsass
+https://github.com/sass/perl-libsass
+Perl bindings for libsass (CSS::Sass)
+MIT license
+2019-05-19T15:57:11
+22
+
+
+
+asbru-cm/asbru-cm
+https://github.com/asbru-cm/asbru-cm
+Ásbrú Connection Manager is a user interface that helps organizing remote terminal sessions and automating repetitive…
+GPL-3.0 license
+2019-05-19T08:51:31
+199
+
+
+
+gnp/psh
+https://github.com/gnp/psh
+Perl Shell (psh) — Aspiring to be your primary login shell
+No License
+2019-05-18T16:59:55
+50
+
+
+
+Test-More/test-more
+https://github.com/Test-More/test-more
+Test2, Test::More, Test::Simple and Test::Builder Perl modules for writing tests
+No License
+2019-05-18T15:23:36
+123
+
+
+
+bucardo/dbdpg
+https://github.com/bucardo/dbdpg
+Perl Postgres driver DBD::Pg aka dbdpg
+No License
+2019-05-17T15:26:02
+33
+
+
+
+PDLPorters/pdl
+https://github.com/PDLPorters/pdl
+Scientific computing with Perl
+No License
+2019-05-16T19:07:10
+51
+
+
+
+perl5-dbi/dbi
+https://github.com/perl5-dbi/dbi
+DBI - The Perl 5 Database Interface
+No License
+2019-05-16T18:48:48
+65
+
+
+
+radiator-software/p5-net-ssleay
+https://github.com/radiator-software/p5-net-ssleay
+Net::SSLeay - Perl extension for using OpenSSL and LibreSSL
+Artistic-2.0 license
+2019-05-16T11:24:12
+12
+
+
+
+stevan/promises-perl
+https://github.com/stevan/promises-perl
+An implementation of Promises in Perl
+No License
+2019-05-15T20:53:49
+32
+
+
+
+mskcc/vcf2maf
+https://github.com/mskcc/vcf2maf
+Convert a VCF into a MAF, where each variant is annotated to only one of all possible gene isoforms
+No License
+2019-05-14T22:15:48
+147
+
+
+
+metacpan/metacpan-web
+https://github.com/metacpan/metacpan-web
+Web interface for MetaCPAN
+No License
+2019-05-14T21:32:44
+315
+
+
+
+kensanata/hex-mapping
+https://github.com/kensanata/hex-mapping
+Tools to work with hex maps for roleplaying games. Usually web applications written in Perl and producing SVG output.
+No License
+2019-05-14T10:48:21
+36
+
+
+
+TvdW/perl-DBD-Cassandra
+https://github.com/TvdW/perl-DBD-Cassandra
+DBD::Cassandra is a DBI driver for Cassandra/CQL3
+No License
+2019-05-14T10:06:32
+13
+
+
+
+dankogai/p5-encode
+https://github.com/dankogai/p5-encode
+Encode - character encodings (for Perl 5.8 or better)
+No License
+2019-05-13T22:44:39
+31
+
+
+
+CpanelInc/cPanel-PublicAPI
+https://github.com/CpanelInc/cPanel-PublicAPI
+A perl module for interfacing with cPanel's various APIs
+No License
+2019-05-13T22:38:45
+19
+
+
+
+salva/p5-Net-OpenSSH
+https://github.com/salva/p5-Net-OpenSSH
+Perl SSH client built on top of OpenSSH
+No License
+2019-05-13T13:46:40
+25
+
+
+
+XMLTV/xmltv
+https://github.com/XMLTV/xmltv
+Utilities to obtain, generate, and post-process TV listings data in XMLTV format
+GPL-2.0 license
+2019-05-13T12:49:00
+31
+
+
+
+thesourcerer8/altium2kicad
+https://github.com/thesourcerer8/altium2kicad
+Altium to KiCad converter for PCB and schematics
+GPL-2.0 license
+2019-05-13T08:18:25
+258
+
+
+
+gflohr/qgoda
+https://github.com/gflohr/qgoda
+Qgoda (pronounce: yagoda!) is an extensible static site generator with arbitrary taxonomies and cross-links and a str…
+No License
+2019-05-13T07:16:24
+11
+
+
+
+smxi/inxi
+https://github.com/smxi/inxi
+inxi is a full featured CLI system information tool. It is available in most Linux distribution repositories, and doe…
+GPL-3.0 license
+2019-05-11T18:14:57
+417
+
+
+
+hachiojipm/awesome-perl
+https://github.com/hachiojipm/awesome-perl
+A curated list of awesome Perl frameworks and libraries. Come on Pull Requests!
+MIT license
+2019-05-11T11:05:03
+458
+
+
+
+joyrex2001/grpc-perl
+https://github.com/joyrex2001/grpc-perl
+Perl 5 implementation of gRPC using the official gRPC shared library.
+Apache-2.0 license
+2019-05-10T13:17:51
+23
+
+
+
+trizen/youtube-viewer
+https://github.com/trizen/youtube-viewer
+Lightweight application for searching and streaming videos from YouTube.
+Artistic-2.0 license
+2019-05-09T21:16:34
+497
+
+
+
+onishi/perl5-devel-kytprof
+https://github.com/onishi/perl5-devel-kytprof
+Devel::KYTProf - Simple Perl code profiler
+No License
+2019-05-09T05:24:01
+47
+
+
+
+cbbrowne/autodoc
+https://github.com/cbbrowne/autodoc
+PostgreSQL Autodoc - dumps a Postgres schema in several useful documentary forms
+No License
+2019-05-08T20:07:25
+68
+
+
+
+maxmind/GeoIP2-perl
+https://github.com/maxmind/GeoIP2-perl
+Perl API for MaxMind's GeoIP2 web services and databases
+No License
+2019-05-08T19:37:28
+14
+
+
+
+Ensembl/ensembl
+https://github.com/Ensembl/ensembl
+The Ensembl Core Perl API and SQL schema
+Apache-2.0 license
+2019-05-08T13:20:19
+48
+
+
+
+kasei/attean
+https://github.com/kasei/attean
+A Perl Semantic Web Framework
+No License
+2019-05-07T16:16:46
+11
 
 
 
