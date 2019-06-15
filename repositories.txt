@@ -1,0 +1,72 @@
+dreamwidth/dw-free
+https://github.com/dreamwidth/dw-free
+Dreamwidth's open source repository
+No License
+2019-06-15T01:28:36
+109
+
+
+
+exercism/perl5
+https://github.com/exercism/perl5
+Exercism exercises in Perl 5.
+MIT license
+2019-06-14T22:50:51
+21
+
+
+
+mozilla-bteam/bmo
+https://github.com/mozilla-bteam/bmo
+bugzilla.mozilla.org source - report issues here: https://bugzilla.mozilla.org/enter_bug.cgi?product=bugzilla.mozilla…
+MPL-2.0 license
+2019-06-14T22:33:26
+69
+
+
+
+os-autoinst/openQA
+https://github.com/os-autoinst/openQA
+openQA web-frontend, scheduler and tools.
+GPL-2.0 license
+2019-06-14T22:00:43
+160
+
+
+
+Corion/WWW-Mechanize-Chrome
+https://github.com/Corion/WWW-Mechanize-Chrome
+automate the Chrome browser
+Artistic-2.0 license
+2019-06-14T21:48:28
+13
+
+
+
+eserte/bbbike
+https://github.com/eserte/bbbike
+BBBike
+GPL-2.0 license
+2019-06-14T21:37:33
+34
+
+
+
+os-autoinst/os-autoinst
+https://github.com/os-autoinst/os-autoinst
+OS-level test automation
+GPL-2.0 license
+2019-06-14T21:37:31
+87
+
+
+
+andk/pause
+https://github.com/andk/pause
+Perl authors upload server
+No License
+2019-06-14T19:49:33
+138
+
+
+

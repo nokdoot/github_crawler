@@ -14,14 +14,14 @@ has 'udt'     => (is => 'ro', isa => 'DateTime');
 has 'stars'   => (is => 'ro');
 
 sub print {
-    my ($self) = shift;
-    say $self->name;
-    say $self->link;
-    say $self->desc;
-    say $self->license;
-    say $self->udt->stringify;
-    say $self->stars;
-    say "\n\n";
+    my ($self, $fh) = @_;
+    say $fh $self->name;
+    say $fh $self->link;
+    say $fh $self->desc;
+    say $fh $self->license;
+    say $fh $self->udt->stringify;
+    say $fh $self->stars;
+    say $fh "\n\n";
 }
 
 1;
