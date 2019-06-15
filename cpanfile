@@ -1,0 +1,9 @@
+requires 'Mojo::Dom';
+requires 'Data::Dumper';
+requires 'Cwd';
+requires 'FindBin';
+requires 'HTTP::Request';
+requires 'URL::Encode';
+requires 'DateTime::Format::Strptime';
+requires 'LWP::UserAgent';
+requires 'Moose';
