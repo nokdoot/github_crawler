@@ -1,0 +1,13 @@
+=encoding utf8
+=pod
+
+=head1 INSTALL
+
+ sudo cpan Carton
+ carton install
+
+=head1 RUN
+
+ perl repositories.pl
+
+=cut
