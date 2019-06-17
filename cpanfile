@@ -7,3 +7,4 @@ requires 'URL::Encode';
 requires 'DateTime::Format::Strptime';
 requires 'LWP::UserAgent';
 requires 'Moose';
+requires 'Number::Format';

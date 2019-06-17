@@ -2,4 +2,5 @@
 *.bak
 /local
 cpanfile.snapshot
-repositories.txt
+repositories.*
+!repositories.pl

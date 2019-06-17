@@ -11,6 +11,9 @@ use lib abs_path("$FindBin::Bin/lib");
 use HTTP::Request;
 use URL::Encode qw/ url_encode_utf8 /;
 use DateTime::Format::Strptime;
+use Number::Format;
+
+my $nf = Number::Format->new;
 
 my $strp = DateTime::Format::Strptime->new(
     pattern   => '%Y-%m-%dT%TZ', # 2016-11-04||T||18:36:50||Z
@@ -24,8 +27,8 @@ use GitHub::Repository;
 
 my %params = (
     p    => 1,                      # page
-    l    => 'Perl',                 # language      ( Java|C++|C|Perl|... )
-    q    => 'perl',                 # query         ( any words for search )
+    l    => 'Java',                 # language      ( Java|C++|C|Perl|... )
+    q    => 'java',                 # query         ( any words for search )
     o    => 'desc',                 # order         ( desc|asc )
     s    => 'updated',              # sort          ( stars|forks|updated )
     type => 'Repositories',         # Repositories  ( fixed )
@@ -41,7 +44,8 @@ my @repos = ();
 system "rm repositories.txt";
 
 for ( 1..100 ) {
-    open (my $fh, ">>", "repositories.txt");
+    my $filename = "repositories."."$params{l}";
+    open (my $fh, ">>", "$filename");
     $params{p} = $_;
     my $url = GitHub::Crawler->make_url(\%params); 
     my $request = HTTP::Request->new(GET => $url);
@@ -94,6 +98,8 @@ for ( 1..100 ) {
         if ( $e_in_div2->size == 2 ) {
             $stars = $e_in_div2->last->at('a')->all_text;
             trim($stars);
+            $stars = uc ($stars);
+            $stars = $nf->unformat_number($stars, base => 1000);
         }
         $lang = 
             $e_in_div2->first->at('div:nth-child(1) > span:nth-child(1) > span:nth-child(2)')->text;
