@@ -27,8 +27,8 @@ use GitHub::Repository;
 
 my %params = (
     p    => 1,                      # page
-    l    => 'Java',                 # language      ( Java|C++|C|Perl|... )
-    q    => 'java',                 # query         ( any words for search )
+    l    => 'perl',                 # language      ( Java|C++|C|Perl|... )
+    q    => 'perl',                 # query         ( any words for search )
     o    => 'desc',                 # order         ( desc|asc )
     s    => 'updated',              # sort          ( stars|forks|updated )
     type => 'Repositories',         # Repositories  ( fixed )
@@ -41,10 +41,14 @@ my $since = '2018-01-01T00:00:00Z';
 
 my @repos = ();
 
-system "rm repositories.txt";
+my $filename = "repositories."."$params{l}";
+
+if ( -e $filename ) {
+    say "Delete $filename";
+    system ("rm $filename");
+}
 
 for ( 1..100 ) {
-    my $filename = "repositories."."$params{l}";
     open (my $fh, ">>", "$filename");
     $params{p} = $_;
     my $url = GitHub::Crawler->make_url(\%params); 
@@ -54,7 +58,11 @@ for ( 1..100 ) {
 
     my $dom = GitHub::Crawler->html_dom($content);
     my $repo_list = $dom->at('ul.repo-list');
-    if ( !defined $repo_list ) { sleep(10); redo; }
+    if ( !defined $repo_list ) { 
+        say "Banished for a while. "
+        ."Sleep for 10 seconds"; 
+        sleep(10); redo; 
+    }
     my $items = $repo_list->children;
 
     say "... $_ page ...";
