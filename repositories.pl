@@ -27,8 +27,8 @@ use GitHub::Repository;
 
 my %params = (
     p    => 1,                      # page
-    l    => 'perl',                 # language      ( Java|C++|C|Perl|... )
-    q    => 'perl',                 # query         ( any words for search )
+    l    => 'Java',                 # language      ( Java|C++|C|Perl|... )
+    q    => 'java',                 # query         ( any words for search )
     o    => 'desc',                 # order         ( desc|asc )
     s    => 'updated',              # sort          ( stars|forks|updated )
     type => 'Repositories',         # Repositories  ( fixed )
@@ -36,7 +36,7 @@ my %params = (
 
 my $start_page = 1;
 my $end_page = 100;
-my $least_stars = 10;
+my $least_stars = 100;
 my $since = '2018-01-01T00:00:00Z';
 
 my @repos = ();
@@ -60,8 +60,8 @@ for ( 1..100 ) {
     my $repo_list = $dom->at('ul.repo-list');
     if ( !defined $repo_list ) { 
         say "Banished for a while. "
-        ."Sleep for 10 seconds"; 
-        sleep(10); redo; 
+        ."Sleep for 600 seconds"; 
+        sleep(600); redo; 
     }
     my $items = $repo_list->children;
 
@@ -119,6 +119,7 @@ for ( 1..100 ) {
         my $h3 = $div1->at('h3');
         my $name = $h3->all_text;
         trim($name);
+        say $name;
 
         # link
         my $link = "https://github.com";
